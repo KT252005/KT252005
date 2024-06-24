@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I am an enthusiast who excites when new technology is developed by him . <br>👯 I’m looking to collaborate on opensource platform .<br>🌱 I’m currently learning web development. <br>⚡ Fun fact : There is nothing a fun fact . 
+🔭 I am an enthusiast who excites to do technological things in this tech world (basicly i love tech) . <br>👯 I’m looking to collaborate on opensource platform .<br>🌱 I’m currently learning web development. <br>⚡ Fun fact : There is nothing a fun fact . 
+
+
 
 
 ## 🌐 Socials:
